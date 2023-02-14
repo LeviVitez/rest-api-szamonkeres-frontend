@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: powderblue;
+  text-align: left;
+}
+button{
+  background-color: red;
+  padding: 15px 32px
+}
+
